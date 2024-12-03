@@ -2,24 +2,29 @@
   "files": [
     {
       "name": "1.jpg",
-      "url": "https://c3dss-eink-einkadmin-webapp-ppkzyipf.azurewebsites.net/binfiles/8.jpg",
-      "last_modified": "2024-12-38T15:20:00Z"
+      "url": "https://c3dss-eink-einkadmin-webapp-ppkzyipf.azurewebsites.net/binfiles/1.jpg",
+      "last_modified": "2024-12-39T15:20:00Z"
     },
     {
       "name": "2.jpg",
-      "url": "https://c3dss-eink-einkadmin-webapp-ppkzyipf.azurewebsites.net/binfiles/7.jpg",
-      "last_modified": "2024-12-38T15:20:00Z"
+      "url": "https://c3dss-eink-einkadmin-webapp-ppkzyipf.azurewebsites.net/binfiles/2.jpg",
+      "last_modified": "2024-12-39T15:20:00Z"
     },
     {
       "name": "3.jpg",
-      "url": "https://c3dss-eink-einkadmin-webapp-ppkzyipf.azurewebsites.net/binfiles/6.jpg",
-      "last_modified": "2024-12-38T15:20:00Z"
+      "url": "https://c3dss-eink-einkadmin-webapp-ppkzyipf.azurewebsites.net/binfiles/3.jpg",
+      "last_modified": "2024-12-39T15:20:00Z"
     },
     {
       "name": "4.jpg",
+      "url": "https://c3dss-eink-einkadmin-webapp-ppkzyipf.azurewebsites.net/binfiles/4.jpg",
+      "last_modified": "2024-12-39T15:20:00Z"
+    },
+    {
+      "name": "5.jpg",
       "url": "https://c3dss-eink-einkadmin-webapp-ppkzyipf.azurewebsites.net/binfiles/5.jpg",
-      "last_modified": "2024-12-38T15:20:00Z"
-    }
+      "last_modified": "2024-12-39T15:20:00Z"
+    },
    
   ]
 }
